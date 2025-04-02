@@ -1,1 +1,1 @@
-Testing text2 file for git
+Testing text2 file for git - branch1
